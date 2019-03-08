@@ -1,0 +1,17 @@
+﻿body {
+    align-content: center;
+    background-image: url("https://onehdwallpaper.com/wp-content/uploads/2016/04/Colorful-Clock-HD-Wallpaper-and-Picture.jpg") ;
+    background-position: top;
+    background-size: cover;
+    font-size: x-large;
+    color: black;
+    background-color: lavender;
+    padding: 20px 15px 0 15px;
+}
+
+nav {
+    background-color: black;
+    padding-top: 10px;
+    height: 70px;
+    font-size: larger;
+}

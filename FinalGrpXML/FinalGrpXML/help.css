@@ -1,0 +1,44 @@
+﻿.subtitle {
+    text-align: center;
+}
+
+.form-actions {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+}
+
+#dvDistance {
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+/* .main{
+    color: white;
+    height: 350;
+    background-color:  rgba(35, 89, 142, 1);
+} */
+.main {
+    background-color: rgba(35, 89, 142, 1);
+    flex-grow: 1;
+    color: white;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+#outer {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+}
+
+#googleMap {
+    width: 100%;
+    height: 400px;
+}
